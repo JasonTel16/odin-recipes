@@ -1,0 +1,1 @@
+This project is my first proper HTML project through The Odin Project with the purpose of learning HTML, CSS and JS for web development. This project in particular is just using HTML to create a web page for recipes, using what I've learned so far with HTML, BASH and Git
